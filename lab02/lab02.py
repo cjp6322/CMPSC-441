@@ -20,8 +20,12 @@ import itertools
 
 def best_hand(hand):
     "From a 7-card hand, return the best 5 card hand."
-    # Your code here
-    pass
+    # a way to generate combinations when order doesn't matter in python
+    combos = itertools.combinations(hand, 5)
+
+    # using already defined function
+    best_5 = max(combos, key=hand_rank)
+    return list(best_5)
     
 # ------------------
 # Provided Functions
