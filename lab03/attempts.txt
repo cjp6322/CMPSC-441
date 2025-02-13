@@ -1,0 +1,162 @@
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: gemma:2b
+Options: {'seed': 68541583}
+System: You are the Dungeon Master for a game of Dungeons and Dragons 5th Edition. I am the player. You control the world, NPCs, and events, while I control my character. Describe the setting and react to my actions.
+
+
+Assistant: Welcome to our Dungeons and Dragons adventure! Before we begin, please choose an adventure setting.
+
+
+Assistant:  
+
+**What kind of world do you imagine?**
+
+**1. Forgotten Ruins of a Once Great City**
+
+**2. A Sparkling City Beneath the Clouds**
+
+**3. A Whispering Forest and its Inhabitants**
+
+**Choose an option and describe your character's initial reaction.**
+
+
+User: 1
+
+
+Assistant: I choose the **Forgotten Ruins of a Once Great City** setting. The crumbling stone structures are shrouded in an eerie mist, and the air is thick with the scent of decay. My heart races as I survey the eerie ruins, knowing that secrets lurks within these forgotten walls.
+
+
+User: I turn into a dragon and breathe fire on everything
+
+
+Assistant: I grin, my scales shimmering in the sunlight. The fire crackles and pops, illuminating my path through the treacherous ruins. The air around me smells of ancient dust and decay, and I can hear the faint whispers of forgotten stories. I take a step forward, my eyes scanning the vast chamber ahead.
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: gemma:2b
+Options: {'seed': 68541583}
+System: You are the Dungeon Master for a Dungeons and Dragons 5th Edition game. I am the player, and we will create a story together. You control the world, NPCs, and creatures, while I control my character. You must describe the world, NPCs, and events while ensuring logical consistency in the setting. If an action is uncertain, ask me to roll a skill check using D&D 5e mechanics.
+
+
+Assistant: Before we start, I will present three adventure options. Each will have a brief description of the kind of story we will play.
+
+
+Assistant:  Please choose one that you'd like to embark on:
+
+1. **The Whispering Caves of Aethel.** A hidden network of caves filled with ancient secrets and dangerous creatures awaits exploration.
+2. **The Ruins of Blackthorn Manor.** A crumbling manor with a dark history and lingering mysteries is ripe for investigation.
+3. **A River of Lost Souls.** A winding river rumored to carry the souls of the damned offers a dangerous and rewarding challenge.
+
+What do you choose?
+
+
+User: 1
+
+
+Assistant: I choose the **Whispering Caves of Aethel.** The prospect of venturing into the unknown depths of the cave network appeals to me greatly. I'm eager to uncover the secrets hidden within and face the challenges that await me.
+
+
+User: I try to climb a rock wall with strength
+
+
+Assistant: I'd love to explore the caves! I have a strong curiosity about the unknown and am eager to discover the secrets within. I will attempt to climb the rock wall with a DC of 15. What is my chance of success?
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: gemma:2b
+Options: {'seed': 68541583}
+System: You are the Dungeon Master for a Dungeons and Dragons 5th Edition game. I am the player, and we will create a story together. You control the world, NPCs, and creatures, while I control my character. You must maintain logical consistency in the world and ensure all interactions follow D&D 5e rules. Skill checks should be required for difficult or uncertain actions, with an appropriate Difficulty Class (DC). In combat, ask for an initiative roll and keep track of HP for enemies and my character. Use attack rolls against AC to determine hits. Damage reduces HP accordingly.
+
+
+Assistant: Before we begin, I will present three adventure options. After you select one, please describe your character, including your class, race, AC, and HP.
+
+
+Assistant:  Then, I will introduce the world and begin the story!
+
+**Options:**
+
+1. **The Wandering Oasis:** You find yourself in a lush oasis teeming with life.
+2. **The Ruins of Eldorado:** The crumbling city of Eldorado calls to you, promising untold treasures.
+3. **The Whispering Woods:** A dense forest whispers secrets to those who dare listen.
+
+What option do you choose?
+
+
+User: 1
+
+
+Assistant: I choose the **Wandering Oasis** option. The vibrant plants and shimmering water create a welcoming atmosphere. The air is filled with the sweet scent of flowers, and the gentle breeze carries the sound of birds singing. Lush foliage provides ample shade for adventurers to rest under.
+
+I am a human cleric, with AC 14, HP 120, and a spiritual affinity.
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: gemma:2b
+Options: {'seed': 68541583}
+System: You are the Dungeon Master for a game of Dungeons and Dragons 5th edition. I am the player. Your role is to create the world, control all non-player characters (NPCs), and describe events, while I make decisions for my character. You should never assume control of my character or describe my character’s thoughts, dialogue, or actions unless you are responding to my inputs. Your responsibilities as the Dungeon Master include: - Describing settings, environments, and events in detail. - Controlling all NPCs and creatures, including their actions, motivations, and dialogue. - Enforcing game mechanics such as skill checks, combat rules, and turn order. - Asking for dice rolls when appropriate, such as skill checks or attack rolls. - Ensuring logical consistency in the world. Do not introduce elements that contradict previous descriptions or the established setting. When a skill check is needed, ask me to roll the appropriate ability check or saving throw based on D&D 5e rules. You must state the required skill and an approximate difficulty (e.g., 'Roll a Strength (Athletics) check, DC 15'). During combat, follow these steps: 1. Ask for an initiative roll to determine turn order. 2. Keep track of HP for all NPCs, creatures, and my character. 3. Use attack rolls against AC to determine whether attacks hit. 4. Subtract damage from HP when attacks hit. If an NPC or creature's HP reaches 0, they die. 5. Do not allow characters or creatures to take actions outside of their turn. 6. Clearly indicate when a turn ends and whose turn is next. Under no circumstances should you act as a player. You do not have a player character. You are the Dungeon Master, and your only role is to guide the world and enforce the rules.
+
+
+Assistant: Welcome, adventurer! I am your Dungeon Master, here to guide you through an exciting world of fantasy and adventure. Before we begin, I will present three adventure options, each with a unique setting and tone. Once you select an adventure, please describe your character, including class, race, AC, and HP. Then, we shall begin!
+
+
+Assistant: 
+
+**Option 1: The Enchanted Forest**
+
+As you step into the lush canopy of the enchanted forest, sunlight barely penetrates the dense foliage, casting ethereal shadows on the forest floor. Birds sing melodies that weave through the air, and the gentle breeze carries the sweet scent of wildflowers.
+
+**Roll a Wisdom (Arcana) check, DC 15.**
+
+**What do you do?**
+
+
+User: I check to see whats around me
+
+
+Assistant: I carefully scan the forest floor, my eyes searching for any signs of danger or opportunity. The vibrant tapestry of the forest holds untold secrets, and I can't resist exploring further.
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
