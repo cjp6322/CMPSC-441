@@ -24,6 +24,16 @@ def roll_for(skill, dc, player):
 
 def process_response(self, response):
     # Fill out this function to process the response from the LLM
+    def process_response(self, response):
+        if response and response.get("tool_calls"):
+            for tool_call in response["tool_calls"]:
+                if tool_call["name"] == "roll_for":
+                    args = tool_call["arguments"]
+                    result = roll_for(**args)
+                    return result
+    
+    # If no tool call is present, return the raw response
+    return response
     # and make the function call 
     return response
 
